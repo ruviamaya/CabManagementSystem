@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AddDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\BookTrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DriverDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\EditDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ManageDrivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ManageVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UpdateDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\UpdateVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewMyTrips%28Customer%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewMyTrips%28Driver%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ViewTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
